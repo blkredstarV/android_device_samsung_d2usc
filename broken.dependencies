@@ -12,7 +12,7 @@
         "branch": "lp5.1"
     },
     {
-        "remote": "github"
+        "remote": "github",
         "repository": "CyanogenMod/android_device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
         "branch": "cm-12.1"
